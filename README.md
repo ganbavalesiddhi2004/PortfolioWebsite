@@ -1,6 +1,6 @@
 # SiddhiSphere - Personal Portfolio Website
 
-SiddhiSphereSphere is my personal portfolio website developed to showcase my skills, projects, education, internship experience, and achievements in a professional way. The website reflects my journey as an MCA student and an aspiring Python Full Stack Developer.
+SiddhiSphere is my personal portfolio website developed to showcase my skills, projects, education, internship experience, and achievements in a professional way. The website reflects my journey as an MCA student and an aspiring Python Full Stack Developer.
 
 This portfolio is designed using HTML5, CSS3, Bootstrap 5, and JavaScript with a responsive and user-friendly interface. It provides visitors with a complete overview of my technical skills, academic background, and practical experience.
 
